@@ -14,7 +14,7 @@ All architecture, backend, frontend, infra and CI/CD are built and maintained by
 Yes. I’m actively open to a co-founder stronger on the distribution side but haven’t yet found a good fit yet.
 
 **Founder Video**
-_Not provided._
+https://www.youtube.com/watch?v=Y5Hgtqeb1GE
 
 ---
 
